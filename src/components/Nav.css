@@ -1,0 +1,17 @@
+* {
+    padding: 0; 
+    margin: 0;
+}
+
+.nav-container {
+    background-color: rgb(74, 168, 74);
+    width: 100vw;
+    height: 10vh; 
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    color: white; 
+}
